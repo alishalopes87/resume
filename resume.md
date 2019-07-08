@@ -1,14 +1,13 @@
-# Alisha  Lopes
+## Alisha  Lopes
 
 ```
-    Software Developer
-Phone   707­228­3153 Email  alishalopes87@gmail.com Portfolio  LinkedIn  Github
+  ##  Software Developer
+Phone:   707­228­3153 Email:  alishalopes87@gmail.com <a name="alishalopes.oi"></a>Portfolio  LinkedIn  Github
 ```
 ## Skills
 
 ```
-Python ⬩ Flask  ⬩ JavaScript  ⬩ HTML5  ⬩ CSS3  ⬩ D3  ⬩ React  ⬩ Redux  ⬩ PostgreSQL jQuery  ⬩ Git  ⬩ Github
-⬩ Firebase  ⬩ MongoDB  ⬩ Webpack  ⬩ AWS
+Python ⬩ Flask  ⬩ JavaScript  ⬩ HTML5  ⬩ CSS3  ⬩ D3  ⬩ React  ⬩ Redux  ⬩ PostgreSQL jQuery  ⬩ Git  ⬩ Github ⬩ Firebase  ⬩ MongoDB  ⬩ Webpack  ⬩ AWS
 ```
 ## Projects
 
