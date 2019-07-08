@@ -29,6 +29,7 @@ Full stack web application allows users to browse, search, and save b
 	●  Incorporated D3 to incorporate a graph visual, allowing the user to explore the relationships of books they've
 	saved to their subject and authors.
 	● Integrated Google Books API to augment book pages pages with cover images and summaries.
+
 Diary   | Javascript | Firebase | React | Redux | HTML5 | CSS | live site  |  github
 Virtual Diary
 	● Configured Firebase backend with authentication allowing users to make private or public
@@ -38,6 +39,7 @@ Virtual Diary
 	connected, they would not be able to access the connection page. Frontend routing, to Re­route the user based on
 	their status.
 	● Implemented secure user experience through Firebase connect authentication.
+	
 Bejeweled Clone | Javascript | React | HTML5 | CSS | live site | github
 	● Implemented rendering of the grid portion of the bejeweled game.
 	● Utilizes react components to feed into Bejeweled gameplay.
