@@ -1,9 +1,9 @@
 # Alisha  Lopes
 
-```
-    Software Developer
+
+Software Developer
 Phone:   707­228­3153 Email:  alishalopes87@gmail.com 
-```
+
 * [Portfolio](alishalopes.io)
 * [LinkedIn](https://www.linkedin.com/in/alisha-lopes/)
 * [Github](https://github.com/alishalopes87)
@@ -34,6 +34,10 @@ Virtual Diary
 	their status.
 	● Implemented secure user experience through Firebase connect authentication.
 Bejeweled Clone | Javascript | React | HTML5 | CSS | live site | github
+	● Implemented rendering of the grid portion of the bejeweled game.
+	● Utilizes react components to feed into Bejeweled gameplay.
+	● Implemented  functionality through React state management to display different board based on user moves. 
+
 
 ```
 ## Experience
