@@ -13,10 +13,10 @@ Phone:   707­228­3153 Email:  alishalopes87@gmail.com
 
 ## Skills
 
-```
+
 Python ⬩ Flask  ⬩ JavaScript  ⬩ HTML5  ⬩ CSS3  ⬩ D3  ⬩ React  ⬩ Redux  ⬩ <br/>
 PostgreSQL jQuery  ⬩ Git  ⬩ Github ⬩ Firebase  ⬩ MongoDB  ⬩ Webpack  ⬩ AWS<br/>
-```
+
 ## Projects
 
 ```
