@@ -2,15 +2,20 @@
 
 
 Software Developer
+
+```
 Phone:   707­228­3153 Email:  alishalopes87@gmail.com 
+```
 
 * [Portfolio](alishalopes.io)
 * [LinkedIn](https://www.linkedin.com/in/alisha-lopes/)
 * [Github](https://github.com/alishalopes87)
+
 ## Skills
 
 ```
-Python ⬩ Flask  ⬩ JavaScript  ⬩ HTML5  ⬩ CSS3  ⬩ D3  ⬩ React  ⬩ Redux  ⬩ PostgreSQL jQuery  ⬩ Git  ⬩ Github ⬩ Firebase  ⬩ MongoDB  ⬩ Webpack  ⬩ AWS
+Python ⬩ Flask  ⬩ JavaScript  ⬩ HTML5  ⬩ CSS3  ⬩ D3  ⬩ React  ⬩ Redux  ⬩ <br/>
+PostgreSQL jQuery  ⬩ Git  ⬩ Github ⬩ Firebase  ⬩ MongoDB  ⬩ Webpack  ⬩ AWS<br/>
 ```
 ## Projects
 
