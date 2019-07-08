@@ -7,7 +7,7 @@ Software Developer
 Phone:   707­228­3153 Email:  alishalopes87@gmail.com 
 ```
 
-* [Portfolio](alishalopes.io)
+* [Portfolio](http://www.alishalopes.io)
 * [LinkedIn](https://www.linkedin.com/in/alisha-lopes/)
 * [Github](https://github.com/alishalopes87)
 
