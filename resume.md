@@ -49,7 +49,7 @@ Dental Hygienist  | Dental Power | August 2011 ­ January 
 Dental Hygienist  | Global Dental Relief | Oct 2010 ­ Sept 
 	● Implemented preventive care program within a remote clinical setting.
 	● Lead group of ten local clinicians in educating patients
-    ●  Responsible for treating 10­15 patients each day
+	●  Responsible for treating 10­15 patients each day
 ```
 ## Education
 
