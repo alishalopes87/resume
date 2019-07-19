@@ -20,8 +20,8 @@ PostgreSQL jQuery  ⬩ Git  ⬩ Github ⬩ Firebase  ⬩ MongoDB  ⬩ W
 
 
 IBDb  | Python | HTML5 | CSS3 | Flask | Postgres | D3 | [live site](http://54.191.8.168/) ​|  github
-
 Responsive full stack web application allows users to browse, search, and save books to their personal library.
+
 	●  Implemented faceted search engine on Open Library dump dataset of 54 million records
 	●  Leveraged SqlAlchemy Searchable Library to recognize stop words and apply relevance ranking to search
 	●  Configured Postgres and Flask backend to store user’s books, and individual book information
