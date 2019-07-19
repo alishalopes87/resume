@@ -50,7 +50,6 @@ Color Drop | Javascript | React | HTML5 | CSS |	live site ​| github
 Fully interactive single page web application in React that allows users to play a realtime Bejeweled game clone.
 	● Rendered the entire grid of the Bejeweled game using custom-built, modularized React components.
 	● Architected data flow through React state management to update board based on user gameplay in realtime.
-Experience
 
 ```
 ## Experience
@@ -59,10 +58,15 @@ Experience
 Dental Hygienist  | Dental Power | August 2011 ­ January 
 	● Educated patients by giving oral hygiene and plaque control instructions and postoperative instructions.
 	● Organized continue care program for ongoing patients
+
 Dental Hygienist  | Global Dental Relief | Oct 2010 ­ Sept 
-	● Implemented preventive care program within a remote clinical setting.
-	● Lead group of ten local clinicians in educating patients
-	●  Responsible for treating 10­15 patients each day
+	● Educated patients by giving oral hygiene and plaque control instructions and postoperative instructions.
+	● Organized continuing care program for ongoing patients.
+
+Lead Dental Hygienist | Global Dental Relief | 	October 2010 - September 2014 
+	● Implemented preventive care program within a remote clinical setting in Peru, servicing 4 local villages.
+	● Led group of ten local clinicians in patient education initiatives.
+	● Responsible for treating 10-15 patients per day, and coordinating care for an additional 50 patients per week.
 ```
 ## Education
 
