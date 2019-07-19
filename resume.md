@@ -34,6 +34,7 @@ Diary   | Javascript | Firebase | React | Redux | HTML5 | CSS |[li
 
 Virtual Diary
 Single page fullstack web application powered by Firebase that allows users to create a virtual private diary.
+
 	● Configured Firebase backend with authentication allowing users to make private or public
 	posts
 	● Implemented  functionality through React state management to display different information about a diary entry.
