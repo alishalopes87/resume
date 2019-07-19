@@ -20,7 +20,7 @@ PostgreSQL jQuery  ⬩ Git  ⬩ Github ⬩ Firebase  ⬩ MongoDB  ⬩ W
 ## Projects
 
 
-IBDb  | Python | HTML5 | CSS3 | Flask | Postgres | D3 | live site  |  github
+IBDb  | Python | HTML5 | CSS3 | Flask | Postgres | D3 | [live site](http://54.191.8.168/) ​|  github
 Responsive full stack web application allows users to browse, search, and save books to their personal library.
 	●  Implemented faceted search engine on Open Library dump dataset of 54 million records
 	●  Leveraged SqlAlchemy Searchable Library to recognize stop words and apply relevance ranking to search
@@ -30,7 +30,7 @@ Responsive full stack web application allows users to browse, search, and save b
 	saved to their subject and authors.
 	● Integrated Google Books API to augment book pages pages with cover images and summaries.
 
-Diary   | Javascript | Firebase | React | Redux | HTML5 | CSS | live site  |  github
+Diary   | Javascript | Firebase | React | Redux | HTML5 | CSS |[live site](https://virtualdiary.herokuapp.com/)| github
 Virtual Diary
 Single page fullstack web application powered by Firebase that allows users to create a virtual private diary.
 	● Configured Firebase backend with authentication allowing users to make private or public
@@ -41,7 +41,7 @@ Single page fullstack web application powered by Firebase that allows users to c
 	their status.
 	● Implemented secure user experience through Firebase connect authentication.
 	
-Bejeweled Clone | Javascript | React | HTML5 | CSS | live site | github
+Bejeweled Clone | Javascript | React | HTML5 | CSS | [live site ​](https://bejeweled-game.herokuapp.com/) | github
 	● Implemented rendering of the grid portion of the bejeweled game.
 	● Utilizes react components to feed into Bejeweled gameplay.
 	● Implemented  functionality through React state management to display different board based on user moves.
@@ -51,7 +51,7 @@ Fully interactive single page web application in React that allows users to play
 	● Rendered the entire grid of the Bejeweled game using custom-built, modularized React components.
 	● Architected data flow through React state management to update board based on user gameplay in realtime.
 
-```
+
 ## Experience
 
 ```
