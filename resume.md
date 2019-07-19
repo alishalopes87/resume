@@ -13,14 +13,15 @@ Phone:   707­228­3153 Email:  alishalopes87@gmail.com
 
 ## Skills
 
-```
+
 Python ⬩ Flask  ⬩ JavaScript  ⬩ HTML5  ⬩ CSS3  ⬩ D3  ⬩ React  ⬩ Redux  ⬩ 
 PostgreSQL jQuery  ⬩ Git  ⬩ Github ⬩ Firebase  ⬩ MongoDB  ⬩ Webpack  ⬩ AWS
-```
+
 ## Projects
 
 
 IBDb  | Python | HTML5 | CSS3 | Flask | Postgres | D3 | [live site](http://54.191.8.168/) ​|  github
+
 Responsive full stack web application allows users to browse, search, and save books to their personal library.
 	●  Implemented faceted search engine on Open Library dump dataset of 54 million records
 	●  Leveraged SqlAlchemy Searchable Library to recognize stop words and apply relevance ranking to search
@@ -31,6 +32,7 @@ Responsive full stack web application allows users to browse, search, and save b
 	● Integrated Google Books API to augment book pages pages with cover images and summaries.
 
 Diary   | Javascript | Firebase | React | Redux | HTML5 | CSS |[live site](https://virtualdiary.herokuapp.com/)| github
+
 Virtual Diary
 Single page fullstack web application powered by Firebase that allows users to create a virtual private diary.
 	● Configured Firebase backend with authentication allowing users to make private or public
@@ -54,7 +56,7 @@ Fully interactive single page web application in React that allows users to play
 
 ## Experience
 
-```
+
 Dental Hygienist  | Dental Power | August 2011 ­ January 
 	● Educated patients by giving oral hygiene and plaque control instructions and postoperative instructions.
 	● Organized continue care program for ongoing patients
@@ -67,12 +69,11 @@ Lead Dental Hygienist | Global Dental Relief | 	October 2010 - September 2014
 	● Implemented preventive care program within a remote clinical setting in Peru, servicing 4 local villages.
 	● Led group of ten local clinicians in patient education initiatives.
 	● Responsible for treating 10-15 patients per day, and coordinating care for an additional 50 patients per week.
-```
+
 ## Education
 
-```
+
 Hackbright Academy January 2019 ­ March 
 Immersive software engineering program for women
 Santa Rosa Junior College  May 
 ASDH ­ Dental Hygiene
-```
