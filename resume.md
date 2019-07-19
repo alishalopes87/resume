@@ -21,7 +21,7 @@ PostgreSQL jQuery  ⬩ Git  ⬩ Github ⬩ Firebase  ⬩ MongoDB  ⬩ W
 
 ```
 IBDb  | Python | HTML5 | CSS3 | Flask | Postgres | D3 | live site  |  github
-Full stack web application allows users to browse, search, and save books to their personal library
+Responsive full stack web application allows users to browse, search, and save books to their personal library.
 	●  Implemented faceted search engine on Open Library dump dataset of 54 million records
 	●  Leveraged SqlAlchemy Searchable Library to recognize stop words and apply relevance ranking to search
 	●  Configured Postgres and Flask backend to store user’s books, and individual book information
@@ -32,6 +32,7 @@ Full stack web application allows users to browse, search, and save b
 
 Diary   | Javascript | Firebase | React | Redux | HTML5 | CSS | live site  |  github
 Virtual Diary
+Single page fullstack web application powered by Firebase that allows users to create a virtual private diary.
 	● Configured Firebase backend with authentication allowing users to make private or public
 	posts
 	● Implemented  functionality through React state management to display different information about a diary entry.
@@ -43,8 +44,13 @@ Virtual Diary
 Bejeweled Clone | Javascript | React | HTML5 | CSS | live site | github
 	● Implemented rendering of the grid portion of the bejeweled game.
 	● Utilizes react components to feed into Bejeweled gameplay.
-	● Implemented  functionality through React state management to display different board based on user moves. 
+	● Implemented  functionality through React state management to display different board based on user moves.
 
+Color Drop | Javascript | React | HTML5 | CSS |	live site ​| github 
+Fully interactive single page web application in React that allows users to play a realtime Bejeweled game clone.
+	● Rendered the entire grid of the Bejeweled game using custom-built, modularized React components.
+	● Architected data flow through React state management to update board based on user gameplay in realtime.
+Experience
 
 ```
 ## Experience
